@@ -2,3 +2,8 @@ google-cloud-storage
 tensorflow
 numpy
 Pillow
+fastapi
+Pillow
+numpy
+uvicorn
+python-multipart
