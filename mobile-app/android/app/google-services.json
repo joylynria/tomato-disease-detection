@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113558282173",
+    "project_id": "diseasedetection-cb475",
+    "storage_bucket": "diseasedetection-cb475.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113558282173:android:e72e89ba051b5b833e3cd4",
+        "android_client_info": {
+          "package_name": "com.mldemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArKh65mdZetxoBVbdrQavDLXz8lGsMq9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
